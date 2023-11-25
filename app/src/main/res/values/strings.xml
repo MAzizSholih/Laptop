@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Laptop</string>
+    <string name="memesan_laptop">Memesan Laptop</string>
+    <string name="satu_laptop">Satu Laptop</string>
+    <string name="enam_laptop">Enam Laptop</string>
+    <string name="dua_belas_laptop">Dua belas Laptop</string>
+    <string name="pilih_warna">Pilih Warna</string>
+    <string name="hitam">Hitam</string>
+    <string name="putih">Putih</string>
+    <string name="silver">Silver</string>
+    <string name="merah">Merah</string>
+    <string name="biru">Blue</string>
+    <string name="warna_spesial">Warna Spesial</string>
+    <string name="batal">Batal</string>
+    <string name="selanjutnya">Selanjutnya</string>
+    <string name="pilih_tanggal_pengambilan">Pilih Tanggal Pengambilan</string>
+    <string name="ringkasan_pesanan">Ringkasan Pesanan</string>
+    <string name="kirim">Kirim Pesanan ke Aplikasi Lain</string>
+    <string name="kuantitas">Kuantitas</string>
+    <string name="warna">Warna</string>
+    <string name="tanggal_pengambilan">Tanggal pengambilan</string>
+    <string name="subtotal_harga">Subtotal %s</string>
+    <string name="total_harga">Total %s</string>
+    <string name="pesanan_laptop_baru">Pesanan Laptop Baru</string>
+    <string name="detail_pesanan">Kuantitas: %1$s \nWarna: %2$s \nTanggal pengambilan: %3$s \nTotal: %4$s \n\nTERIMAKASIH!</string>
+    <string name="tombol_kembali">Kembali</string>
+    <plurals name="laptops">
+        <item quantity="one">%d laptop</item>
+        <item quantity="other">%d laptops</item>
+    </plurals>
+</resources>
